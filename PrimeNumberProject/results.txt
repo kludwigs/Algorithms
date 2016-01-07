@@ -1,0 +1,1644 @@
+Main thread has range 2 -- 100
+Prime Number program working on range 2 to 100 with 1 threads
+Seives are at and below sqrt(100) -- 10
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+Thread 1 done...
+Threads joined
+25 prime numbers found!
+Main thread has range 2 -- 50
+Thread 2 has range 51 -- 100
+Prime Number program working on range 2 to 100 with 2 threads
+Seives are at and below sqrt(100) -- 10
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Launched Thread 2
+Found prime sieve - 3
+(2) Crossing out multiples of 3
+Found prime sieve - 5
+(2) Crossing out multiples of 5
+Found prime sieve - 7
+(2) Crossing out multiples of 7
+All prime sieves found!
+Thread 2 done...
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+Thread 1 done...
+Threads joined
+25 prime numbers found!
+Main thread has range 2 -- 34
+Thread 2 has range 35 -- 67
+Thread 3 has range 68 -- 100
+Prime Number program working on range 2 to 100 with 3 threads
+Seives are at and below sqrt(100) -- 10
+Launched Thread 2
+Launched Thread 3
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(2) Crossing out multiples of 3
+(1) Crossing out multiples of 7
+Thread 1 done...
+(2) Crossing out multiples of 5
+(2) Crossing out multiples of 7
+Thread 2 done...
+(3) Crossing out multiples of 3
+(3) Crossing out multiples of 5
+(3) Crossing out multiples of 7
+Thread 3 done...
+Threads joined
+25 prime numbers found!
+Main thread has range 2 -- 25
+Thread 2 has range 26 -- 50
+Thread 3 has range 51 -- 75
+Thread 4 has range 76 -- 100
+Prime Number program working on range 2 to 100 with 4 threads
+Seives are at and below sqrt(100) -- 10
+Launched Thread 2
+Launched Thread 3
+Launched Thread 4
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+Thread 1 done...
+(2) Crossing out multiples of 3
+(2) Crossing out multiples of 5
+(2) Crossing out multiples of 7
+Thread 2 done...
+(4) Crossing out multiples of 3
+(4) Crossing out multiples of 5
+(4) Crossing out multiples of 7
+Thread 4 done...
+(3) Crossing out multiples of 3
+(3) Crossing out multiples of 5
+(3) Crossing out multiples of 7
+Thread 3 done...
+Threads joined
+25 prime numbers found!
+Main thread has range 2 -- 1000
+Prime Number program working on range 2 to 1000 with 1 threads
+Seives are at and below sqrt(1000) -- 32
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+Found prime sieve - 11
+Found prime sieve - 13
+Found prime sieve - 17
+Found prime sieve - 19
+Found prime sieve - 23
+Found prime sieve - 29
+Found prime sieve - 31
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(1) Crossing out multiples of 17
+(1) Crossing out multiples of 19
+(1) Crossing out multiples of 23
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+Thread 1 done...
+Threads joined
+168 prime numbers found!
+Main thread has range 2 -- 500
+Thread 2 has range 501 -- 1000
+Prime Number program working on range 2 to 1000 with 2 threads
+Seives are at and below sqrt(1000) -- 32
+Launched Thread 2
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+(2) Crossing out multiples of 3
+Found prime sieve - 7
+(2) Crossing out multiples of 5
+Found prime sieve - 11
+(2) Crossing out multiples of 7
+Found prime sieve - 13
+(2) Crossing out multiples of 11
+Found prime sieve - 17
+(2) Crossing out multiples of 13
+Found prime sieve - 19
+(2) Crossing out multiples of 17
+Found prime sieve - 23
+(2) Crossing out multiples of 19
+Found prime sieve - 29
+(2) Crossing out multiples of 23
+Found prime sieve - 31
+(2) Crossing out multiples of 29
+All prime sieves found!
+(2) Crossing out multiples of 31
+(1) Crossing out multiples of 3
+Thread 2 done...
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(1) Crossing out multiples of 17
+(1) Crossing out multiples of 19
+(1) Crossing out multiples of 23
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+Thread 1 done...
+Threads joined
+168 prime numbers found!
+Main thread has range 2 -- 334
+Thread 2 has range 335 -- 667
+Thread 3 has range 668 -- 1000
+Prime Number program working on range 2 to 1000 with 3 threads
+Seives are at and below sqrt(1000) -- 32
+Launched Thread 2
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+Found prime sieve - 11
+Found prime sieve - 13
+Found prime sieve - 17
+Found prime sieve - 19
+Found prime sieve - 23
+Found prime sieve - 29
+Found prime sieve - 31
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(1) Crossing out multiples of 17
+(1) Crossing out multiples of 19
+(1) Crossing out multiples of 23
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+Thread 1 done...
+Launched Thread 3
+(3) Crossing out multiples of 3
+(3) Crossing out multiples of 5
+(3) Crossing out multiples of 7
+(3) Crossing out multiples of 11
+(3) Crossing out multiples of 13
+(3) Crossing out multiples of 17
+(3) Crossing out multiples of 19
+(3) Crossing out multiples of 23
+(3) Crossing out multiples of 29
+(3) Crossing out multiples of 31
+Thread 3 done...
+(2) Crossing out multiples of 3
+(2) Crossing out multiples of 5
+(2) Crossing out multiples of 7
+(2) Crossing out multiples of 11
+(2) Crossing out multiples of 13
+(2) Crossing out multiples of 17
+(2) Crossing out multiples of 19
+(2) Crossing out multiples of 23
+(2) Crossing out multiples of 29
+(2) Crossing out multiples of 31
+Thread 2 done...
+Threads joined
+168 prime numbers found!
+Main thread has range 2 -- 250
+Thread 2 has range 251 -- 500
+Thread 3 has range 501 -- 750
+Thread 4 has range 751 -- 1000
+Prime Number program working on range 2 to 1000 with 4 threads
+Seives are at and below sqrt(1000) -- 32
+Launched Thread 2
+Launched Thread 3
+Launched Thread 4
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+Found prime sieve - 11
+Found prime sieve - 13
+Found prime sieve - 17
+Found prime sieve - 19
+Found prime sieve - 23
+Found prime sieve - 29
+Found prime sieve - 31
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(1) Crossing out multiples of 17
+(1) Crossing out multiples of 19
+(1) Crossing out multiples of 23
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+Thread 1 done...
+(4) Crossing out multiples of 3
+(4) Crossing out multiples of 5
+(4) Crossing out multiples of 7
+(4) Crossing out multiples of 11
+(4) Crossing out multiples of 13
+(4) Crossing out multiples of 17
+(4) Crossing out multiples of 19
+(4) Crossing out multiples of 23
+(4) Crossing out multiples of 29
+(4) Crossing out multiples of 31
+Thread 4 done...
+(2) Crossing out multiples of 3
+(2) Crossing out multiples of 5
+(2) Crossing out multiples of 7
+(2) Crossing out multiples of 11
+(2) Crossing out multiples of 13
+(2) Crossing out multiples of 17
+(2) Crossing out multiples of 19
+(2) Crossing out multiples of 23
+(2) Crossing out multiples of 29
+(2) Crossing out multiples of 31
+Thread 2 done...
+(3) Crossing out multiples of 3
+(3) Crossing out multiples of 5
+(3) Crossing out multiples of 7
+(3) Crossing out multiples of 11
+(3) Crossing out multiples of 13
+(3) Crossing out multiples of 17
+(3) Crossing out multiples of 19
+(3) Crossing out multiples of 23
+(3) Crossing out multiples of 29
+(3) Crossing out multiples of 31
+Thread 3 done...
+Threads joined
+168 prime numbers found!
+Main thread has range 2 -- 10000
+Prime Number program working on range 2 to 10000 with 1 threads
+Seives are at and below sqrt(10000) -- 100
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+Found prime sieve - 11
+Found prime sieve - 13
+Found prime sieve - 17
+Found prime sieve - 19
+Found prime sieve - 23
+Found prime sieve - 29
+Found prime sieve - 31
+Found prime sieve - 37
+Found prime sieve - 41
+Found prime sieve - 43
+Found prime sieve - 47
+Found prime sieve - 53
+Found prime sieve - 59
+Found prime sieve - 61
+Found prime sieve - 67
+Found prime sieve - 71
+Found prime sieve - 73
+Found prime sieve - 79
+Found prime sieve - 83
+Found prime sieve - 89
+Found prime sieve - 97
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(1) Crossing out multiples of 17
+(1) Crossing out multiples of 19
+(1) Crossing out multiples of 23
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+(1) Crossing out multiples of 37
+(1) Crossing out multiples of 41
+(1) Crossing out multiples of 43
+(1) Crossing out multiples of 47
+(1) Crossing out multiples of 53
+(1) Crossing out multiples of 59
+(1) Crossing out multiples of 61
+(1) Crossing out multiples of 67
+(1) Crossing out multiples of 71
+(1) Crossing out multiples of 73
+(1) Crossing out multiples of 79
+(1) Crossing out multiples of 83
+(1) Crossing out multiples of 89
+(1) Crossing out multiples of 97
+Thread 1 done...
+Threads joined
+1229 prime numbers found!
+Main thread has range 2 -- 5000
+Thread 2 has range 5001 -- 10000
+Prime Number program working on range 2 to 10000 with 2 threads
+Seives are at and below sqrt(10000) -- 100
+Launched Thread 2
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+Found prime sieve - 11
+Found prime sieve - 13
+Found prime sieve - 17
+Found prime sieve - 19
+Found prime sieve - 23
+Found prime sieve - 29
+Found prime sieve - 31
+Found prime sieve - 37
+Found prime sieve - 41
+Found prime sieve - 43
+Found prime sieve - 47
+Found prime sieve - 53
+Found prime sieve - 59
+Found prime sieve - 61
+Found prime sieve - 67
+Found prime sieve - 71
+Found prime sieve - 73
+Found prime sieve - 79
+Found prime sieve - 83
+Found prime sieve - 89
+Found prime sieve - 97
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(1) Crossing out multiples of 17
+(1) Crossing out multiples of 19
+(1) Crossing out multiples of 23
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+(1) Crossing out multiples of 37
+(1) Crossing out multiples of 41
+(1) Crossing out multiples of 43
+(1) Crossing out multiples of 47
+(1) Crossing out multiples of 53
+(1) Crossing out multiples of 59
+(1) Crossing out multiples of 61
+(1) Crossing out multiples of 67
+(1) Crossing out multiples of 71
+(1) Crossing out multiples of 73
+(1) Crossing out multiples of 79
+(1) Crossing out multiples of 83
+(1) Crossing out multiples of 89
+(1) Crossing out multiples of 97
+Thread 1 done...
+(2) Crossing out multiples of 3
+(2) Crossing out multiples of 5
+(2) Crossing out multiples of 7
+(2) Crossing out multiples of 11
+(2) Crossing out multiples of 13
+(2) Crossing out multiples of 17
+(2) Crossing out multiples of 19
+(2) Crossing out multiples of 23
+(2) Crossing out multiples of 29
+(2) Crossing out multiples of 31
+(2) Crossing out multiples of 37
+(2) Crossing out multiples of 41
+(2) Crossing out multiples of 43
+(2) Crossing out multiples of 47
+(2) Crossing out multiples of 53
+(2) Crossing out multiples of 59
+(2) Crossing out multiples of 61
+(2) Crossing out multiples of 67
+(2) Crossing out multiples of 71
+(2) Crossing out multiples of 73
+(2) Crossing out multiples of 79
+(2) Crossing out multiples of 83
+(2) Crossing out multiples of 89
+(2) Crossing out multiples of 97
+Thread 2 done...
+Threads joined
+1229 prime numbers found!
+Main thread has range 2 -- 3334
+Thread 2 has range 3335 -- 6667
+Thread 3 has range 6668 -- 10000
+Prime Number program working on range 2 to 10000 with 3 threads
+Seives are at and below sqrt(10000) -- 100
+Launched Thread 2
+Launched Thread 1
+Launched Thread 3
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+(3) Crossing out multiples of 3
+Found prime sieve - 5
+Found prime sieve - 7
+Found prime sieve - 11
+(3) Crossing out multiples of 5
+Found prime sieve - 13
+Found prime sieve - 17
+(3) Crossing out multiples of 7
+Found prime sieve - 19
+(3) Crossing out multiples of 11
+Found prime sieve - 23
+(3) Crossing out multiples of 13
+Found prime sieve - 29
+(3) Crossing out multiples of 17
+(2) Crossing out multiples of 3
+Found prime sieve - 31
+(3) Crossing out multiples of 19
+(2) Crossing out multiples of 5
+Found prime sieve - 37
+(3) Crossing out multiples of 23
+(2) Crossing out multiples of 7
+Found prime sieve - 41
+(3) Crossing out multiples of 29
+(2) Crossing out multiples of 11
+Found prime sieve - 43
+(3) Crossing out multiples of 31
+(2) Crossing out multiples of 13
+Found prime sieve - 47
+(3) Crossing out multiples of 37
+(2) Crossing out multiples of 17
+Found prime sieve - 53
+(3) Crossing out multiples of 41
+(2) Crossing out multiples of 19
+Found prime sieve - 59
+(3) Crossing out multiples of 43
+(2) Crossing out multiples of 23
+Found prime sieve - 61
+(3) Crossing out multiples of 47
+(2) Crossing out multiples of 29
+Found prime sieve - 67
+(3) Crossing out multiples of 53
+(2) Crossing out multiples of 31
+Found prime sieve - 71
+(3) Crossing out multiples of 59
+(2) Crossing out multiples of 37
+Found prime sieve - 73
+(3) Crossing out multiples of 61
+(2) Crossing out multiples of 41
+Found prime sieve - 79
+(3) Crossing out multiples of 67
+(2) Crossing out multiples of 43
+Found prime sieve - 83
+(3) Crossing out multiples of 71
+(2) Crossing out multiples of 47
+Found prime sieve - 89
+(3) Crossing out multiples of 73
+(2) Crossing out multiples of 53
+Found prime sieve - 97
+(3) Crossing out multiples of 79
+(2) Crossing out multiples of 59
+All prime sieves found!
+(3) Crossing out multiples of 83
+(2) Crossing out multiples of 61
+(1) Crossing out multiples of 3
+(3) Crossing out multiples of 89
+(2) Crossing out multiples of 67
+(1) Crossing out multiples of 5
+(3) Crossing out multiples of 97
+(2) Crossing out multiples of 71
+(1) Crossing out multiples of 7
+Thread 3 done...
+(2) Crossing out multiples of 73
+(1) Crossing out multiples of 11
+(2) Crossing out multiples of 79
+(1) Crossing out multiples of 13
+(2) Crossing out multiples of 83
+(1) Crossing out multiples of 17
+(2) Crossing out multiples of 89
+(1) Crossing out multiples of 19
+(2) Crossing out multiples of 97
+(1) Crossing out multiples of 23
+Thread 2 done...
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+(1) Crossing out multiples of 37
+(1) Crossing out multiples of 41
+(1) Crossing out multiples of 43
+(1) Crossing out multiples of 47
+(1) Crossing out multiples of 53
+(1) Crossing out multiples of 59
+(1) Crossing out multiples of 61
+(1) Crossing out multiples of 67
+(1) Crossing out multiples of 71
+(1) Crossing out multiples of 73
+(1) Crossing out multiples of 79
+(1) Crossing out multiples of 83
+(1) Crossing out multiples of 89
+(1) Crossing out multiples of 97
+Thread 1 done...
+Threads joined
+1229 prime numbers found!
+Main thread has range 2 -- 2500
+Thread 2 has range 2501 -- 5000
+Thread 3 has range 5001 -- 7500
+Thread 4 has range 7501 -- 10000
+Prime Number program working on range 2 to 10000 with 4 threads
+Seives are at and below sqrt(10000) -- 100
+Launched Thread 2
+Launched Thread 3
+Launched Thread 4
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+(3) Crossing out multiples of 3
+Found prime sieve - 5
+(3) Crossing out multiples of 5
+Found prime sieve - 7
+(3) Crossing out multiples of 7
+Found prime sieve - 11
+(3) Crossing out multiples of 11
+Found prime sieve - 13
+(3) Crossing out multiples of 13
+Found prime sieve - 17
+(3) Crossing out multiples of 17
+Found prime sieve - 19
+(3) Crossing out multiples of 19
+Found prime sieve - 23
+(3) Crossing out multiples of 23
+Found prime sieve - 29
+(3) Crossing out multiples of 29
+Found prime sieve - 31
+(3) Crossing out multiples of 31
+Found prime sieve - 37
+(3) Crossing out multiples of 37
+Found prime sieve - 41
+(3) Crossing out multiples of 41
+Found prime sieve - 43
+(3) Crossing out multiples of 43
+Found prime sieve - 47
+(3) Crossing out multiples of 47
+Found prime sieve - 53
+(3) Crossing out multiples of 53
+Found prime sieve - 59
+(3) Crossing out multiples of 59
+Found prime sieve - 61
+(3) Crossing out multiples of 61
+Found prime sieve - 67
+(3) Crossing out multiples of 67
+Found prime sieve - 71
+(3) Crossing out multiples of 71
+Found prime sieve - 73
+(3) Crossing out multiples of 73
+Found prime sieve - 79
+(3) Crossing out multiples of 79
+Found prime sieve - 83
+(3) Crossing out multiples of 83
+Found prime sieve - 89
+(3) Crossing out multiples of 89
+Found prime sieve - 97
+(3) Crossing out multiples of 97
+All prime sieves found!
+Thread 3 done...
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(1) Crossing out multiples of 17
+(1) Crossing out multiples of 19
+(1) Crossing out multiples of 23
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+(1) Crossing out multiples of 37
+(1) Crossing out multiples of 41
+(1) Crossing out multiples of 43
+(1) Crossing out multiples of 47
+(1) Crossing out multiples of 53
+(1) Crossing out multiples of 59
+(1) Crossing out multiples of 61
+(1) Crossing out multiples of 67
+(1) Crossing out multiples of 71
+(1) Crossing out multiples of 73
+(1) Crossing out multiples of 79
+(1) Crossing out multiples of 83
+(1) Crossing out multiples of 89
+(1) Crossing out multiples of 97
+Thread 1 done...
+(2) Crossing out multiples of 3
+(2) Crossing out multiples of 5
+(2) Crossing out multiples of 7
+(2) Crossing out multiples of 11
+(2) Crossing out multiples of 13
+(2) Crossing out multiples of 17
+(2) Crossing out multiples of 19
+(2) Crossing out multiples of 23
+(2) Crossing out multiples of 29
+(2) Crossing out multiples of 31
+(2) Crossing out multiples of 37
+(2) Crossing out multiples of 41
+(2) Crossing out multiples of 43
+(2) Crossing out multiples of 47
+(2) Crossing out multiples of 53
+(2) Crossing out multiples of 59
+(2) Crossing out multiples of 61
+(2) Crossing out multiples of 67
+(2) Crossing out multiples of 71
+(2) Crossing out multiples of 73
+(2) Crossing out multiples of 79
+(2) Crossing out multiples of 83
+(2) Crossing out multiples of 89
+(2) Crossing out multiples of 97
+Thread 2 done...
+(4) Crossing out multiples of 3
+(4) Crossing out multiples of 5
+(4) Crossing out multiples of 7
+(4) Crossing out multiples of 11
+(4) Crossing out multiples of 13
+(4) Crossing out multiples of 17
+(4) Crossing out multiples of 19
+(4) Crossing out multiples of 23
+(4) Crossing out multiples of 29
+(4) Crossing out multiples of 31
+(4) Crossing out multiples of 37
+(4) Crossing out multiples of 41
+(4) Crossing out multiples of 43
+(4) Crossing out multiples of 47
+(4) Crossing out multiples of 53
+(4) Crossing out multiples of 59
+(4) Crossing out multiples of 61
+(4) Crossing out multiples of 67
+(4) Crossing out multiples of 71
+(4) Crossing out multiples of 73
+(4) Crossing out multiples of 79
+(4) Crossing out multiples of 83
+(4) Crossing out multiples of 89
+(4) Crossing out multiples of 97
+Thread 4 done...
+Threads joined
+1229 prime numbers found!
+Main thread has range 2 -- 100000
+Prime Number program working on range 2 to 100000 with 1 threads
+Seives are at and below sqrt(100000) -- 317
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+Found prime sieve - 11
+Found prime sieve - 13
+Found prime sieve - 17
+Found prime sieve - 19
+Found prime sieve - 23
+Found prime sieve - 29
+Found prime sieve - 31
+Found prime sieve - 37
+Found prime sieve - 41
+Found prime sieve - 43
+Found prime sieve - 47
+Found prime sieve - 53
+Found prime sieve - 59
+Found prime sieve - 61
+Found prime sieve - 67
+Found prime sieve - 71
+Found prime sieve - 73
+Found prime sieve - 79
+Found prime sieve - 83
+Found prime sieve - 89
+Found prime sieve - 97
+Found prime sieve - 101
+Found prime sieve - 103
+Found prime sieve - 107
+Found prime sieve - 109
+Found prime sieve - 113
+Found prime sieve - 127
+Found prime sieve - 131
+Found prime sieve - 137
+Found prime sieve - 139
+Found prime sieve - 149
+Found prime sieve - 151
+Found prime sieve - 157
+Found prime sieve - 163
+Found prime sieve - 167
+Found prime sieve - 173
+Found prime sieve - 179
+Found prime sieve - 181
+Found prime sieve - 191
+Found prime sieve - 193
+Found prime sieve - 197
+Found prime sieve - 199
+Found prime sieve - 211
+Found prime sieve - 223
+Found prime sieve - 227
+Found prime sieve - 229
+Found prime sieve - 233
+Found prime sieve - 239
+Found prime sieve - 241
+Found prime sieve - 251
+Found prime sieve - 257
+Found prime sieve - 263
+Found prime sieve - 269
+Found prime sieve - 271
+Found prime sieve - 277
+Found prime sieve - 281
+Found prime sieve - 283
+Found prime sieve - 293
+Found prime sieve - 307
+Found prime sieve - 311
+Found prime sieve - 313
+Found prime sieve - 317
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(1) Crossing out multiples of 17
+(1) Crossing out multiples of 19
+(1) Crossing out multiples of 23
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+(1) Crossing out multiples of 37
+(1) Crossing out multiples of 41
+(1) Crossing out multiples of 43
+(1) Crossing out multiples of 47
+(1) Crossing out multiples of 53
+(1) Crossing out multiples of 59
+(1) Crossing out multiples of 61
+(1) Crossing out multiples of 67
+(1) Crossing out multiples of 71
+(1) Crossing out multiples of 73
+(1) Crossing out multiples of 79
+(1) Crossing out multiples of 83
+(1) Crossing out multiples of 89
+(1) Crossing out multiples of 97
+(1) Crossing out multiples of 101
+(1) Crossing out multiples of 103
+(1) Crossing out multiples of 107
+(1) Crossing out multiples of 109
+(1) Crossing out multiples of 113
+(1) Crossing out multiples of 127
+(1) Crossing out multiples of 131
+(1) Crossing out multiples of 137
+(1) Crossing out multiples of 139
+(1) Crossing out multiples of 149
+(1) Crossing out multiples of 151
+(1) Crossing out multiples of 157
+(1) Crossing out multiples of 163
+(1) Crossing out multiples of 167
+(1) Crossing out multiples of 173
+(1) Crossing out multiples of 179
+(1) Crossing out multiples of 181
+(1) Crossing out multiples of 191
+(1) Crossing out multiples of 193
+(1) Crossing out multiples of 197
+(1) Crossing out multiples of 199
+(1) Crossing out multiples of 211
+(1) Crossing out multiples of 223
+(1) Crossing out multiples of 227
+(1) Crossing out multiples of 229
+(1) Crossing out multiples of 233
+(1) Crossing out multiples of 239
+(1) Crossing out multiples of 241
+(1) Crossing out multiples of 251
+(1) Crossing out multiples of 257
+(1) Crossing out multiples of 263
+(1) Crossing out multiples of 269
+(1) Crossing out multiples of 271
+(1) Crossing out multiples of 277
+(1) Crossing out multiples of 281
+(1) Crossing out multiples of 283
+(1) Crossing out multiples of 293
+(1) Crossing out multiples of 307
+(1) Crossing out multiples of 311
+(1) Crossing out multiples of 313
+(1) Crossing out multiples of 317
+Thread 1 done...
+Threads joined
+9592 prime numbers found!
+Main thread has range 2 -- 50000
+Thread 2 has range 50001 -- 100000
+Prime Number program working on range 2 to 100000 with 2 threads
+Seives are at and below sqrt(100000) -- 317
+Launched Thread 2
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+Found prime sieve - 11
+Found prime sieve - 13
+Found prime sieve - 17
+Found prime sieve - 19
+Found prime sieve - 23
+Found prime sieve - 29
+Found prime sieve - 31
+Found prime sieve - 37
+Found prime sieve - 41
+Found prime sieve - 43
+Found prime sieve - 47
+Found prime sieve - 53
+Found prime sieve - 59
+Found prime sieve - 61
+Found prime sieve - 67
+Found prime sieve - 71
+Found prime sieve - 73
+Found prime sieve - 79
+Found prime sieve - 83
+Found prime sieve - 89
+Found prime sieve - 97
+Found prime sieve - 101
+Found prime sieve - 103
+Found prime sieve - 107
+Found prime sieve - 109
+Found prime sieve - 113
+Found prime sieve - 127
+Found prime sieve - 131
+Found prime sieve - 137
+Found prime sieve - 139
+Found prime sieve - 149
+Found prime sieve - 151
+Found prime sieve - 157
+Found prime sieve - 163
+Found prime sieve - 167
+Found prime sieve - 173
+Found prime sieve - 179
+Found prime sieve - 181
+Found prime sieve - 191
+Found prime sieve - 193
+Found prime sieve - 197
+Found prime sieve - 199
+Found prime sieve - 211
+Found prime sieve - 223
+Found prime sieve - 227
+Found prime sieve - 229
+Found prime sieve - 233
+Found prime sieve - 239
+Found prime sieve - 241
+Found prime sieve - 251
+Found prime sieve - 257
+Found prime sieve - 263
+Found prime sieve - 269
+Found prime sieve - 271
+Found prime sieve - 277
+Found prime sieve - 281
+Found prime sieve - 283
+Found prime sieve - 293
+Found prime sieve - 307
+Found prime sieve - 311
+Found prime sieve - 313
+Found prime sieve - 317
+All prime sieves found!
+(1) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(1) Crossing out multiples of 17
+(1) Crossing out multiples of 19
+(1) Crossing out multiples of 23
+(1) Crossing out multiples of 29
+(1) Crossing out multiples of 31
+(1) Crossing out multiples of 37
+(1) Crossing out multiples of 41
+(1) Crossing out multiples of 43
+(1) Crossing out multiples of 47
+(1) Crossing out multiples of 53
+(1) Crossing out multiples of 59
+(1) Crossing out multiples of 61
+(1) Crossing out multiples of 67
+(1) Crossing out multiples of 71
+(1) Crossing out multiples of 73
+(1) Crossing out multiples of 79
+(1) Crossing out multiples of 83
+(1) Crossing out multiples of 89
+(1) Crossing out multiples of 97
+(1) Crossing out multiples of 101
+(1) Crossing out multiples of 103
+(1) Crossing out multiples of 107
+(1) Crossing out multiples of 109
+(1) Crossing out multiples of 113
+(1) Crossing out multiples of 127
+(1) Crossing out multiples of 131
+(1) Crossing out multiples of 137
+(1) Crossing out multiples of 139
+(1) Crossing out multiples of 149
+(1) Crossing out multiples of 151
+(1) Crossing out multiples of 157
+(1) Crossing out multiples of 163
+(1) Crossing out multiples of 167
+(1) Crossing out multiples of 173
+(1) Crossing out multiples of 179
+(1) Crossing out multiples of 181
+(1) Crossing out multiples of 191
+(1) Crossing out multiples of 193
+(1) Crossing out multiples of 197
+(1) Crossing out multiples of 199
+(1) Crossing out multiples of 211
+(1) Crossing out multiples of 223
+(1) Crossing out multiples of 227
+(1) Crossing out multiples of 229
+(1) Crossing out multiples of 233
+(1) Crossing out multiples of 239
+(1) Crossing out multiples of 241
+(1) Crossing out multiples of 251
+(1) Crossing out multiples of 257
+(1) Crossing out multiples of 263
+(1) Crossing out multiples of 269
+(1) Crossing out multiples of 271
+(1) Crossing out multiples of 277
+(1) Crossing out multiples of 281
+(1) Crossing out multiples of 283
+(1) Crossing out multiples of 293
+(1) Crossing out multiples of 307
+(1) Crossing out multiples of 311
+(1) Crossing out multiples of 313
+(1) Crossing out multiples of 317
+Thread 1 done...
+(2) Crossing out multiples of 3
+(2) Crossing out multiples of 5
+(2) Crossing out multiples of 7
+(2) Crossing out multiples of 11
+(2) Crossing out multiples of 13
+(2) Crossing out multiples of 17
+(2) Crossing out multiples of 19
+(2) Crossing out multiples of 23
+(2) Crossing out multiples of 29
+(2) Crossing out multiples of 31
+(2) Crossing out multiples of 37
+(2) Crossing out multiples of 41
+(2) Crossing out multiples of 43
+(2) Crossing out multiples of 47
+(2) Crossing out multiples of 53
+(2) Crossing out multiples of 59
+(2) Crossing out multiples of 61
+(2) Crossing out multiples of 67
+(2) Crossing out multiples of 71
+(2) Crossing out multiples of 73
+(2) Crossing out multiples of 79
+(2) Crossing out multiples of 83
+(2) Crossing out multiples of 89
+(2) Crossing out multiples of 97
+(2) Crossing out multiples of 101
+(2) Crossing out multiples of 103
+(2) Crossing out multiples of 107
+(2) Crossing out multiples of 109
+(2) Crossing out multiples of 113
+(2) Crossing out multiples of 127
+(2) Crossing out multiples of 131
+(2) Crossing out multiples of 137
+(2) Crossing out multiples of 139
+(2) Crossing out multiples of 149
+(2) Crossing out multiples of 151
+(2) Crossing out multiples of 157
+(2) Crossing out multiples of 163
+(2) Crossing out multiples of 167
+(2) Crossing out multiples of 173
+(2) Crossing out multiples of 179
+(2) Crossing out multiples of 181
+(2) Crossing out multiples of 191
+(2) Crossing out multiples of 193
+(2) Crossing out multiples of 197
+(2) Crossing out multiples of 199
+(2) Crossing out multiples of 211
+(2) Crossing out multiples of 223
+(2) Crossing out multiples of 227
+(2) Crossing out multiples of 229
+(2) Crossing out multiples of 233
+(2) Crossing out multiples of 239
+(2) Crossing out multiples of 241
+(2) Crossing out multiples of 251
+(2) Crossing out multiples of 257
+(2) Crossing out multiples of 263
+(2) Crossing out multiples of 269
+(2) Crossing out multiples of 271
+(2) Crossing out multiples of 277
+(2) Crossing out multiples of 281
+(2) Crossing out multiples of 283
+(2) Crossing out multiples of 293
+(2) Crossing out multiples of 307
+(2) Crossing out multiples of 311
+(2) Crossing out multiples of 313
+(2) Crossing out multiples of 317
+Thread 2 done...
+Threads joined
+9592 prime numbers found!
+Main thread has range 2 -- 33334
+Thread 2 has range 33335 -- 66667
+Thread 3 has range 66668 -- 100000
+Prime Number program working on range 2 to 100000 with 3 threads
+Seives are at and below sqrt(100000) -- 317
+Launched Thread 2
+Launched Thread 3
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+Found prime sieve - 7
+Found prime sieve - 11
+Found prime sieve - 13
+Found prime sieve - 17
+Found prime sieve - 19
+Found prime sieve - 23
+Found prime sieve - 29
+Found prime sieve - 31
+Found prime sieve - 37
+Found prime sieve - 41
+Found prime sieve - 43
+Found prime sieve - 47
+Found prime sieve - 53
+Found prime sieve - 59
+Found prime sieve - 61
+Found prime sieve - 67
+Found prime sieve - 71
+Found prime sieve - 73
+Found prime sieve - 79
+Found prime sieve - 83
+Found prime sieve - 89
+Found prime sieve - 97
+Found prime sieve - 101
+Found prime sieve - 103
+Found prime sieve - 107
+Found prime sieve - 109
+Found prime sieve - 113
+Found prime sieve - 127
+Found prime sieve - 131
+Found prime sieve - 137
+Found prime sieve - 139
+Found prime sieve - 149
+Found prime sieve - 151
+Found prime sieve - 157
+Found prime sieve - 163
+Found prime sieve - 167
+Found prime sieve - 173
+Found prime sieve - 179
+Found prime sieve - 181
+Found prime sieve - 191
+Found prime sieve - 193
+Found prime sieve - 197
+Found prime sieve - 199
+Found prime sieve - 211
+Found prime sieve - 223
+Found prime sieve - 227
+Found prime sieve - 229
+Found prime sieve - 233
+Found prime sieve - 239
+Found prime sieve - 241
+Found prime sieve - 251
+Found prime sieve - 257
+Found prime sieve - 263
+Found prime sieve - 269
+Found prime sieve - 271
+Found prime sieve - 277
+Found prime sieve - 281
+Found prime sieve - 283
+Found prime sieve - 293
+Found prime sieve - 307
+Found prime sieve - 311
+Found prime sieve - 313
+Found prime sieve - 317
+All prime sieves found!
+(1) Crossing out multiples of 3
+(2) Crossing out multiples of 3
+(1) Crossing out multiples of 5
+(2) Crossing out multiples of 5
+(1) Crossing out multiples of 7
+(2) Crossing out multiples of 7
+(1) Crossing out multiples of 11
+(1) Crossing out multiples of 13
+(2) Crossing out multiples of 11
+(1) Crossing out multiples of 17
+(2) Crossing out multiples of 13
+(1) Crossing out multiples of 19
+(2) Crossing out multiples of 17
+(1) Crossing out multiples of 23
+(2) Crossing out multiples of 19
+(1) Crossing out multiples of 29
+(2) Crossing out multiples of 23
+(1) Crossing out multiples of 31
+(2) Crossing out multiples of 29
+(1) Crossing out multiples of 37
+(1) Crossing out multiples of 41
+(1) Crossing out multiples of 43
+(1) Crossing out multiples of 47
+(3) Crossing out multiples of 3
+(1) Crossing out multiples of 53
+(1) Crossing out multiples of 59
+(1) Crossing out multiples of 61
+(1) Crossing out multiples of 67
+(1) Crossing out multiples of 71
+(1) Crossing out multiples of 73
+(1) Crossing out multiples of 79
+(1) Crossing out multiples of 83
+(1) Crossing out multiples of 89
+(1) Crossing out multiples of 97
+(1) Crossing out multiples of 101
+(3) Crossing out multiples of 5
+(1) Crossing out multiples of 103
+(1) Crossing out multiples of 107
+(1) Crossing out multiples of 109
+(1) Crossing out multiples of 113
+(1) Crossing out multiples of 127
+(1) Crossing out multiples of 131
+(1) Crossing out multiples of 137
+(1) Crossing out multiples of 139
+(3) Crossing out multiples of 7
+(1) Crossing out multiples of 149
+(1) Crossing out multiples of 151
+(1) Crossing out multiples of 157
+(1) Crossing out multiples of 163
+(1) Crossing out multiples of 167
+(3) Crossing out multiples of 11
+(1) Crossing out multiples of 173
+(1) Crossing out multiples of 179
+(1) Crossing out multiples of 181
+(3) Crossing out multiples of 13
+(1) Crossing out multiples of 191
+(1) Crossing out multiples of 193
+(1) Crossing out multiples of 197
+(3) Crossing out multiples of 17
+(1) Crossing out multiples of 199
+(1) Crossing out multiples of 211
+(3) Crossing out multiples of 19
+(1) Crossing out multiples of 223
+(1) Crossing out multiples of 227
+(3) Crossing out multiples of 23
+(1) Crossing out multiples of 229
+(1) Crossing out multiples of 233
+(3) Crossing out multiples of 29
+(1) Crossing out multiples of 239
+(1) Crossing out multiples of 241
+(3) Crossing out multiples of 31
+(1) Crossing out multiples of 251
+(3) Crossing out multiples of 37
+(1) Crossing out multiples of 257
+(1) Crossing out multiples of 263
+(3) Crossing out multiples of 41
+(1) Crossing out multiples of 269
+(3) Crossing out multiples of 43
+(1) Crossing out multiples of 271
+(3) Crossing out multiples of 47
+(1) Crossing out multiples of 277
+(3) Crossing out multiples of 53
+(1) Crossing out multiples of 281
+(3) Crossing out multiples of 59
+(1) Crossing out multiples of 283
+(3) Crossing out multiples of 61
+(1) Crossing out multiples of 293
+(3) Crossing out multiples of 67
+(1) Crossing out multiples of 307
+(3) Crossing out multiples of 71
+(1) Crossing out multiples of 311
+(3) Crossing out multiples of 73
+(1) Crossing out multiples of 313
+(3) Crossing out multiples of 79
+(1) Crossing out multiples of 317
+(3) Crossing out multiples of 83
+Thread 1 done...
+(3) Crossing out multiples of 89
+(3) Crossing out multiples of 97
+(3) Crossing out multiples of 101
+(3) Crossing out multiples of 103
+(3) Crossing out multiples of 107
+(3) Crossing out multiples of 109
+(3) Crossing out multiples of 113
+(3) Crossing out multiples of 127
+(3) Crossing out multiples of 131
+(3) Crossing out multiples of 137
+(3) Crossing out multiples of 139
+(3) Crossing out multiples of 149
+(3) Crossing out multiples of 151
+(3) Crossing out multiples of 157
+(3) Crossing out multiples of 163
+(3) Crossing out multiples of 167
+(3) Crossing out multiples of 173
+(3) Crossing out multiples of 179
+(3) Crossing out multiples of 181
+(3) Crossing out multiples of 191
+(3) Crossing out multiples of 193
+(3) Crossing out multiples of 197
+(3) Crossing out multiples of 199
+(3) Crossing out multiples of 211
+(3) Crossing out multiples of 223
+(3) Crossing out multiples of 227
+(3) Crossing out multiples of 229
+(3) Crossing out multiples of 233
+(3) Crossing out multiples of 239
+(3) Crossing out multiples of 241
+(3) Crossing out multiples of 251
+(3) Crossing out multiples of 257
+(3) Crossing out multiples of 263
+(3) Crossing out multiples of 269
+(3) Crossing out multiples of 271
+(3) Crossing out multiples of 277
+(3) Crossing out multiples of 281
+(3) Crossing out multiples of 283
+(3) Crossing out multiples of 293
+(3) Crossing out multiples of 307
+(3) Crossing out multiples of 311
+(3) Crossing out multiples of 313
+(3) Crossing out multiples of 317
+Thread 3 done...
+(2) Crossing out multiples of 31
+(2) Crossing out multiples of 37
+(2) Crossing out multiples of 41
+(2) Crossing out multiples of 43
+(2) Crossing out multiples of 47
+(2) Crossing out multiples of 53
+(2) Crossing out multiples of 59
+(2) Crossing out multiples of 61
+(2) Crossing out multiples of 67
+(2) Crossing out multiples of 71
+(2) Crossing out multiples of 73
+(2) Crossing out multiples of 79
+(2) Crossing out multiples of 83
+(2) Crossing out multiples of 89
+(2) Crossing out multiples of 97
+(2) Crossing out multiples of 101
+(2) Crossing out multiples of 103
+(2) Crossing out multiples of 107
+(2) Crossing out multiples of 109
+(2) Crossing out multiples of 113
+(2) Crossing out multiples of 127
+(2) Crossing out multiples of 131
+(2) Crossing out multiples of 137
+(2) Crossing out multiples of 139
+(2) Crossing out multiples of 149
+(2) Crossing out multiples of 151
+(2) Crossing out multiples of 157
+(2) Crossing out multiples of 163
+(2) Crossing out multiples of 167
+(2) Crossing out multiples of 173
+(2) Crossing out multiples of 179
+(2) Crossing out multiples of 181
+(2) Crossing out multiples of 191
+(2) Crossing out multiples of 193
+(2) Crossing out multiples of 197
+(2) Crossing out multiples of 199
+(2) Crossing out multiples of 211
+(2) Crossing out multiples of 223
+(2) Crossing out multiples of 227
+(2) Crossing out multiples of 229
+(2) Crossing out multiples of 233
+(2) Crossing out multiples of 239
+(2) Crossing out multiples of 241
+(2) Crossing out multiples of 251
+(2) Crossing out multiples of 257
+(2) Crossing out multiples of 263
+(2) Crossing out multiples of 269
+(2) Crossing out multiples of 271
+(2) Crossing out multiples of 277
+(2) Crossing out multiples of 281
+(2) Crossing out multiples of 283
+(2) Crossing out multiples of 293
+(2) Crossing out multiples of 307
+(2) Crossing out multiples of 311
+(2) Crossing out multiples of 313
+(2) Crossing out multiples of 317
+Thread 2 done...
+Threads joined
+9592 prime numbers found!
+Main thread has range 2 -- 25000
+Thread 2 has range 25001 -- 50000
+Thread 3 has range 50001 -- 75000
+Thread 4 has range 75001 -- 100000
+Prime Number program working on range 2 to 100000 with 4 threads
+Seives are at and below sqrt(100000) -- 317
+Launched Thread 2
+Launched Thread 3
+Launched Thread 4
+Launched Thread 1
+Thread 1 finding sieves... i is 1 and count is 1
+Found prime sieve - 3
+Found prime sieve - 5
+(3) Crossing out multiples of 3
+Found prime sieve - 7
+Found prime sieve - 11
+Found prime sieve - 13
+Found prime sieve - 17
+Found prime sieve - 19
+Found prime sieve - 23
+Found prime sieve - 29
+Found prime sieve - 31
+Found prime sieve - 37
+Found prime sieve - 41
+Found prime sieve - 43
+Found prime sieve - 47
+Found prime sieve - 53
+Found prime sieve - 59
+Found prime sieve - 61
+Found prime sieve - 67
+Found prime sieve - 71
+Found prime sieve - 73
+Found prime sieve - 79
+Found prime sieve - 83
+Found prime sieve - 89
+Found prime sieve - 97
+Found prime sieve - 101
+Found prime sieve - 103
+Found prime sieve - 107
+Found prime sieve - 109
+(3) Crossing out multiples of 5
+Found prime sieve - 113
+Found prime sieve - 127
+Found prime sieve - 131
+Found prime sieve - 137
+Found prime sieve - 139
+Found prime sieve - 149
+Found prime sieve - 151
+Found prime sieve - 157
+Found prime sieve - 163
+Found prime sieve - 167
+Found prime sieve - 173
+Found prime sieve - 179
+(3) Crossing out multiples of 7
+Found prime sieve - 181
+Found prime sieve - 191
+Found prime sieve - 193
+Found prime sieve - 197
+Found prime sieve - 199
+Found prime sieve - 211
+Found prime sieve - 223
+Found prime sieve - 227
+(3) Crossing out multiples of 11
+Found prime sieve - 229
+Found prime sieve - 233
+Found prime sieve - 239
+Found prime sieve - 241
+Found prime sieve - 251
+(3) Crossing out multiples of 13
+Found prime sieve - 257
+Found prime sieve - 263
+Found prime sieve - 269
+Found prime sieve - 271
+(3) Crossing out multiples of 17
+Found prime sieve - 277
+Found prime sieve - 281
+Found prime sieve - 283
+(3) Crossing out multiples of 19
+Found prime sieve - 293
+Found prime sieve - 307
+Found prime sieve - 311
+(3) Crossing out multiples of 23
+Found prime sieve - 313
+Found prime sieve - 317
+All prime sieves found!
+(1) Crossing out multiples of 3
+(3) Crossing out multiples of 29
+(3) Crossing out multiples of 31
+(3) Crossing out multiples of 37
+(3) Crossing out multiples of 41
+(3) Crossing out multiples of 43
+(3) Crossing out multiples of 47
+(3) Crossing out multiples of 53
+(1) Crossing out multiples of 5
+(3) Crossing out multiples of 59
+(3) Crossing out multiples of 61
+(3) Crossing out multiples of 67
+(3) Crossing out multiples of 71
+(3) Crossing out multiples of 73
+(3) Crossing out multiples of 79
+(1) Crossing out multiples of 7
+(3) Crossing out multiples of 83
+(3) Crossing out multiples of 89
+(3) Crossing out multiples of 97
+(3) Crossing out multiples of 101
+(1) Crossing out multiples of 11
+(3) Crossing out multiples of 103
+(3) Crossing out multiples of 107
+(3) Crossing out multiples of 109
+(1) Crossing out multiples of 13
+(3) Crossing out multiples of 113
+(3) Crossing out multiples of 127
+(3) Crossing out multiples of 131
+(1) Crossing out multiples of 17
+(3) Crossing out multiples of 137
+(3) Crossing out multiples of 139
+(3) Crossing out multiples of 149
+(1) Crossing out multiples of 19
+(3) Crossing out multiples of 151
+(3) Crossing out multiples of 157
+(1) Crossing out multiples of 23
+(3) Crossing out multiples of 163
+(3) Crossing out multiples of 167
+(1) Crossing out multiples of 29
+(3) Crossing out multiples of 173
+(1) Crossing out multiples of 31
+(3) Crossing out multiples of 179
+(1) Crossing out multiples of 37
+(3) Crossing out multiples of 181
+(3) Crossing out multiples of 191
+(1) Crossing out multiples of 41
+(3) Crossing out multiples of 193
+(1) Crossing out multiples of 43
+(3) Crossing out multiples of 197
+(1) Crossing out multiples of 47
+(3) Crossing out multiples of 199
+(1) Crossing out multiples of 53
+(3) Crossing out multiples of 211
+(1) Crossing out multiples of 59
+(3) Crossing out multiples of 223
+(1) Crossing out multiples of 61
+(3) Crossing out multiples of 227
+(1) Crossing out multiples of 67
+(3) Crossing out multiples of 229
+(1) Crossing out multiples of 71
+(3) Crossing out multiples of 233
+(1) Crossing out multiples of 73
+(3) Crossing out multiples of 239
+(1) Crossing out multiples of 79
+(3) Crossing out multiples of 241
+(1) Crossing out multiples of 83
+(3) Crossing out multiples of 251
+(1) Crossing out multiples of 89
+(3) Crossing out multiples of 257
+(1) Crossing out multiples of 97
+(3) Crossing out multiples of 263
+(1) Crossing out multiples of 101
+(3) Crossing out multiples of 269
+(1) Crossing out multiples of 103
+(3) Crossing out multiples of 271
+(1) Crossing out multiples of 107
+(3) Crossing out multiples of 277
+(1) Crossing out multiples of 109
+(3) Crossing out multiples of 281
+(1) Crossing out multiples of 113
+(3) Crossing out multiples of 283
+(1) Crossing out multiples of 127
+(3) Crossing out multiples of 293
+(3) Crossing out multiples of 307
+(1) Crossing out multiples of 131
+(3) Crossing out multiples of 311
+(1) Crossing out multiples of 137
+(3) Crossing out multiples of 313
+(1) Crossing out multiples of 139
+(3) Crossing out multiples of 317
+(1) Crossing out multiples of 149
+Thread 3 done...
+(1) Crossing out multiples of 151
+(1) Crossing out multiples of 157
+(1) Crossing out multiples of 163
+(1) Crossing out multiples of 167
+(1) Crossing out multiples of 173
+(1) Crossing out multiples of 179
+(1) Crossing out multiples of 181
+(1) Crossing out multiples of 191
+(1) Crossing out multiples of 193
+(1) Crossing out multiples of 197
+(1) Crossing out multiples of 199
+(1) Crossing out multiples of 211
+(1) Crossing out multiples of 223
+(1) Crossing out multiples of 227
+(1) Crossing out multiples of 229
+(1) Crossing out multiples of 233
+(1) Crossing out multiples of 239
+(1) Crossing out multiples of 241
+(1) Crossing out multiples of 251
+(1) Crossing out multiples of 257
+(1) Crossing out multiples of 263
+(1) Crossing out multiples of 269
+(1) Crossing out multiples of 271
+(1) Crossing out multiples of 277
+(1) Crossing out multiples of 281
+(1) Crossing out multiples of 283
+(1) Crossing out multiples of 293
+(1) Crossing out multiples of 307
+(1) Crossing out multiples of 311
+(1) Crossing out multiples of 313
+(1) Crossing out multiples of 317
+Thread 1 done...
+(2) Crossing out multiples of 3
+(2) Crossing out multiples of 5
+(4) Crossing out multiples of 3
+(2) Crossing out multiples of 7
+(2) Crossing out multiples of 11
+(4) Crossing out multiples of 5
+(4) Crossing out multiples of 7
+(4) Crossing out multiples of 11
+(4) Crossing out multiples of 13
+(4) Crossing out multiples of 17
+(2) Crossing out multiples of 13
+(4) Crossing out multiples of 19
+(2) Crossing out multiples of 17
+(4) Crossing out multiples of 23
+(4) Crossing out multiples of 29
+(2) Crossing out multiples of 19
+(4) Crossing out multiples of 31
+(4) Crossing out multiples of 37
+(2) Crossing out multiples of 23
+(4) Crossing out multiples of 41
+(2) Crossing out multiples of 29
+(4) Crossing out multiples of 43
+(2) Crossing out multiples of 31
+(4) Crossing out multiples of 47
+(2) Crossing out multiples of 37
+(4) Crossing out multiples of 53
+(2) Crossing out multiples of 41
+(4) Crossing out multiples of 59
+(2) Crossing out multiples of 43
+(4) Crossing out multiples of 61
+(2) Crossing out multiples of 47
+(4) Crossing out multiples of 67
+(2) Crossing out multiples of 53
+(4) Crossing out multiples of 71
+(2) Crossing out multiples of 59
+(4) Crossing out multiples of 73
+(2) Crossing out multiples of 61
+(4) Crossing out multiples of 79
+(2) Crossing out multiples of 67
+(4) Crossing out multiples of 83
+(2) Crossing out multiples of 71
+(4) Crossing out multiples of 89
+(2) Crossing out multiples of 73
+(4) Crossing out multiples of 97
+(2) Crossing out multiples of 79
+(4) Crossing out multiples of 101
+(2) Crossing out multiples of 83
+(4) Crossing out multiples of 103
+(2) Crossing out multiples of 89
+(4) Crossing out multiples of 107
+(2) Crossing out multiples of 97
+(4) Crossing out multiples of 109
+(2) Crossing out multiples of 101
+(4) Crossing out multiples of 113
+(2) Crossing out multiples of 103
+(4) Crossing out multiples of 127
+(2) Crossing out multiples of 107
+(4) Crossing out multiples of 131
+(2) Crossing out multiples of 109
+(4) Crossing out multiples of 137
+(2) Crossing out multiples of 113
+(4) Crossing out multiples of 139
+(2) Crossing out multiples of 127
+(4) Crossing out multiples of 149
+(2) Crossing out multiples of 131
+(4) Crossing out multiples of 151
+(2) Crossing out multiples of 137
+(4) Crossing out multiples of 157
+(2) Crossing out multiples of 139
+(4) Crossing out multiples of 163
+(2) Crossing out multiples of 149
+(4) Crossing out multiples of 167
+(2) Crossing out multiples of 151
+(4) Crossing out multiples of 173
+(2) Crossing out multiples of 157
+(4) Crossing out multiples of 179
+(2) Crossing out multiples of 163
+(4) Crossing out multiples of 181
+(2) Crossing out multiples of 167
+(4) Crossing out multiples of 191
+(2) Crossing out multiples of 173
+(4) Crossing out multiples of 193
+(2) Crossing out multiples of 179
+(4) Crossing out multiples of 197
+(2) Crossing out multiples of 181
+(4) Crossing out multiples of 199
+(2) Crossing out multiples of 191
+(4) Crossing out multiples of 211
+(2) Crossing out multiples of 193
+(4) Crossing out multiples of 223
+(2) Crossing out multiples of 197
+(4) Crossing out multiples of 227
+(2) Crossing out multiples of 199
+(4) Crossing out multiples of 229
+(2) Crossing out multiples of 211
+(4) Crossing out multiples of 233
+(2) Crossing out multiples of 223
+(4) Crossing out multiples of 239
+(2) Crossing out multiples of 227
+(4) Crossing out multiples of 241
+(2) Crossing out multiples of 229
+(4) Crossing out multiples of 251
+(2) Crossing out multiples of 233
+(4) Crossing out multiples of 257
+(2) Crossing out multiples of 239
+(4) Crossing out multiples of 263
+(2) Crossing out multiples of 241
+(4) Crossing out multiples of 269
+(2) Crossing out multiples of 251
+(4) Crossing out multiples of 271
+(2) Crossing out multiples of 257
+(4) Crossing out multiples of 277
+(2) Crossing out multiples of 263
+(4) Crossing out multiples of 281
+(2) Crossing out multiples of 269
+(4) Crossing out multiples of 283
+(2) Crossing out multiples of 271
+(4) Crossing out multiples of 293
+(2) Crossing out multiples of 277
+(4) Crossing out multiples of 307
+(2) Crossing out multiples of 281
+(4) Crossing out multiples of 311
+(2) Crossing out multiples of 283
+(4) Crossing out multiples of 313
+(2) Crossing out multiples of 293
+(4) Crossing out multiples of 317
+(2) Crossing out multiples of 307
+Thread 4 done...
+(2) Crossing out multiples of 311
+(2) Crossing out multiples of 313
+(2) Crossing out multiples of 317
+Thread 2 done...
+Threads joined
+9592 prime numbers found!

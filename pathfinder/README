@@ -1,2 +1,4 @@
+Solves grids up to 17x17
+
 use and computes pascals triangle for generation of the permutations of central bionomial n choose n/2
 uses brute bit counting

@@ -1,3 +1,6 @@
 sample hw assignment from grad school.
 
 demonstrates some multi-threading
+
+Finds all the prime numbers to a given range (1 to 1000) for example using the prime sieve algorithm.
+

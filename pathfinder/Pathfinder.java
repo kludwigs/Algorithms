@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package pathfinder;
 import java.util.Random;
 /**
@@ -16,8 +11,6 @@ public class Pathfinder {
      */
     public static void main(String[] args) 
     {
-        // TODO code application logic here       
-                
         /*int [][]sample = { 
             {0,2,5}, 
             {1,1,3},
@@ -46,12 +39,13 @@ public class Pathfinder {
         
         
         /* 
-        Premise: Move across the grid by either moving downward or to the 
-        right. There are no moves such as to the left and up. For each spot on 
-        the grid there is a number. That number is the cost to land on that spot 
-        and the cost will be subtracted from a variable called money. The goal
-        is to use as much money as possible without going negative until you 
-        reach the end. 
+        Premise: Starting in the upper left hand corner we can move across the
+        grid by either moving downward or to the right until we reach the lower
+        right hand corner. There are no moves such as to the left and up. For 
+        each spot on the grid there is a number. That number is the cost to 
+        land on that spot and the cost will be subtracted from a variable called
+        money. The goal is to use as much money as possible without going 
+        negative until you reach the end. 
                 
         e.g. for the following grid
             {0,2,5}, 
@@ -127,6 +121,42 @@ public class Pathfinder {
         int score = 200;
         
         /* ******************************************************************/
+        
+       /* 
+         e.g. if 
+        If we have 4x4 grid we need to make 6 moves to reach the end.
+        
+        0 will indicate moving downward and a 1 means a move to the right.
+       
+       	a valid path will have three 0's and three 1's 
+       
+       	e.g. 000111, 101010, 110001 etc.
+        
+        We split the number of moves in lower and upper
+       	such as this
+        
+        000 | 111
+        
+        With the help of pascal's triangle we can generate the list of 6 choose 3
+        permutations. However, we still have to bit count half the numbers
+        
+        The row we want will be this
+        
+        1 3 3 1 
+        
+        this will tell us there's 1 way to choose no 1's (e.g. 000)
+        and 3 ways to choose a single 1 (001, 010, 100) and so on
+        
+        We end up pairing no 1's with all 1's which is 000 | 1111
+        
+        for a single 1's we pair each one with from the set of two 1's
+        
+        so 001 will match with 110, 101, 011 as will 100. 
+        
+        once a valid path is constructed we traverse the grid to see how
+        it will do. 
+        
+        */
  
         int number_of_moves = (n-1)*2;  
         int number_of_rows = n;
@@ -162,15 +192,17 @@ public class Pathfinder {
 
             for(int j = 0; j< patharray[i].length;j++)
             {
+            	/* grab the set  and push into upper bits */
                 long num1 = patharray[i][j];
                 num1 <<= number_of_moves/2;
 
                 for(int k = 0;k<patharray[i].length;k++)
                 {
+        	    /*	pair with appropriate match into lower bits*/
                     int tmp = arraylength - (i +1 ); 
                     long thePath = (patharray[tmp][k] + num1);
 
-                    // Evaulate Path                         
+                    // Path is constructed. Evaulate Path                         
                     int moneyleft = evaulatePath(numMoves, thePath,money, grid);
 
                     if(moneyleft < score && moneyleft > -1)

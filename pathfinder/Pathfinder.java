@@ -138,16 +138,16 @@ public class Pathfinder {
         000 | 111
         
         With the help of pascal's triangle we can generate the list of 6 choose 3
-        permutations. However, we still have to bit count half the numbers
+        permutations (20). However, we still have to bit count half the numbers
         
         The row we want will be this
         
         1 3 3 1 
         
         this will tell us there's 1 way to choose no 1's (e.g. 000)
-        and 3 ways to choose a single 1 (001, 010, 100) and so on
+        and 3 ways to choose a single 1 (001, 010, 100) and so on.
         
-        We end up pairing no 1's with all 1's which is 000 | 1111
+        We end up pairing no 1's with three 1's which is 000 | 1111
         
         for a single 1's we pair each one with from the set of two 1's
         

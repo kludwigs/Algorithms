@@ -138,7 +138,8 @@ public class Pathfinder {
         000 | 111
         
         With the help of pascal's triangle we can generate the list of 6 choose 3
-        permutations (20). However, we still have to bit count half the numbers
+        permutations (20). We only need to count 2^(-numMoves/2) of the total 
+        number of paths (invalid or not).
         
         The row we want will be this
         

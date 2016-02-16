@@ -1,5 +1,7 @@
-Computes the sum of the powers.
+Computes the sum of the powers using recursion.
 
 For example if we want to compute the accumulated sum of 7^3
 
 the function will return 7^0 + 7^1 + 7^2 + 7^3 = 400
+
+Code checks against iterative method for correctness.

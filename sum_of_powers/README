@@ -1,0 +1,5 @@
+Computes the sum of the powers.
+
+For example if we want to compute the accumulated sum of 7^3
+
+the function will return 7^0 + 7^1 + 7^2 + 7^3 = 400
